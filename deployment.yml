@@ -16,7 +16,7 @@ spec:
       containers:
       - name: tetris
 <<<<<<< HEAD
-        image:  hyareldocker1/tetrisv1
+        image: hyareldocker1/tetrisv1:latest
 =======
         image: hyareldocker1/tetrisv1:latest
 >>>>>>> 1b4310ec96e341004335bfb20fc9bb517ff4f2aa
