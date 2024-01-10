@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: hyareldocker1/tetrisv1:latest
+        image:  image update
         - containerPort: 3000   # Use port 3000
 
 ---
